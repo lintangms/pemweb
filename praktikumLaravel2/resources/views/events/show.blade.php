@@ -1,0 +1,10 @@
+<!doctype html>
+<html>
+    <head>
+        <title>{{ $name }}</title>
+    </head>
+    <body>
+        <h1>{{ $name }}</h1>
+        <p>Lokasi: {{ $location }}</p>
+    </body>
+</html>
